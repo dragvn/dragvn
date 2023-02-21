@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dragon</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Im a full stack software engineer. Have a look around, browse my projects to see what I've been working on. Feel free to reach out or connect if you would like to work with me</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
