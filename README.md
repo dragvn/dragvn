@@ -71,8 +71,7 @@
             <p align="center">
               <strong>Technology used: HTML5, CSS3, JS </strong>
             </p>
-        </td>
-              
+        </td>    
       </tr>
   </table>
 </div>
