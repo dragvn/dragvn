@@ -21,7 +21,7 @@
           <h3 align="center">Task Tracker</h3>
           <p align="center">
             <a href="https://github.com/dragvn/react-task-tracker" target="_blank" rel="noreferrer"> <img width="1435" alt="taskTracker1" src="https://user-images.githubusercontent.com/98482302/232907158-7bdc9337-17c0-45e0-827f-5a6d66e4718f.png"><img width="1421" alt="taskTracker2" src="https://user-images.githubusercontent.com/98482302/232907235-64d558b8-358c-4266-8685-89fa3738a46f.png"></a>
-            <span> <a href="https://github.com/react-task-tracker" target="_blank" rel="noreferrer">"><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://dragonkeep.netlify.app/projects.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>     
+            <span> <a href="https://github.com/react-task-tracker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://dragonkeep.netlify.app/projects.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>     
              <p align="center">
               NERV Personel Search program that retrieves data from custom built mongo database and displays it to user.  
             </p>
