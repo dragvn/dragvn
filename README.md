@@ -29,21 +29,6 @@
               <strong>Technology used: CSS3, JS, Node, React </strong>
             </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Personal Website/Portfolio</h3>
-          <p align="center">
-            <a href="https://github.com/dragvn/personalSite" target="_blank" rel="noreferrer"> 
-               <img alt="personalSite" src="https://user-images.githubusercontent.com/98482302/230746287-da2a01c1-e578-4c6f-8d36-e777a544bbad.png">
-               <img alt="aboutMe" src="https://user-images.githubusercontent.com/98482302/230746298-343c5321-9e53-49f6-a909-07c3f8b92dea.png">
-            </a>
-            <span> <a href="https://github.com/dragvn/personalSite" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://dragonkeep.netlify.app/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
-             <p align="center">
-              Personal website/portfolio built from scratch without a template.  
-            </p>
-            <p align="center">
-              <strong>Technology used: HTML5, CSS3, JS, PHP </strong>
-            </p>
-        </td>
       </tr>
   </table>
   <table>
