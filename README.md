@@ -17,18 +17,6 @@
 <div align="center">
   <table>
       <tr>
-      <td width="50%">
-          <h3 align="center">Task Tracker</h3>
-          <p align="center">
-            <a href="https://dragonkeep.netlify.app/projects.html" target="_blank" rel="noreferrer"> <img alt="tracker thumbnail" src="https://user-images.githubusercontent.com/98482302/230747717-ffa23c49-72d7-47f1-8739-657f943398d5.png"> </a>
-            <span> <a href="https://codepen.io/dragvn/pen/WNyyaKJ" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://dragonkeep.netlify.app/projects.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
-             <p align="center">
-              Interactive calculator built from scratch.  
-            </p>
-            <p align="center">
-              <strong>Technology used: HTML5, CSS3, JS </strong>
-            </p>
-        </td>
         <td width="50%">
           <h3 align="center">NERV Personel Database</h3>
           <p align="center">
