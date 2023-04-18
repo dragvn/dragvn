@@ -18,9 +18,9 @@
     <table>
       <tr>
         <td width="50%">
-          <h3 align="center">NERV Personel Database</h3>
+          <h3 align="center">Task Tracker</h3>
           <p align="center">
-            <a href="https://github.com/dragvn/neon-genny-api" target="_blank" rel="noreferrer"> <img alt="NERV_main" src="https://user-images.githubusercontent.com/98482302/230745925-ceb96d74-381e-4614-8d44-da6aedafc945.png"><img alt="gendo" src="https://user-images.githubusercontent.com/98482302/230745931-5c340eb9-faa0-43ff-bcc7-82dd1da594bf.png"></a>
+            <a href="https://github.com/dragvn/react-tast-tracker" target="_blank" rel="noreferrer"> <img alt="NERV_main" src="https://user-images.githubusercontent.com/98482302/230745925-ceb96d74-381e-4614-8d44-da6aedafc945.png"><img alt="gendo" src="https://user-images.githubusercontent.com/98482302/230745931-5c340eb9-faa0-43ff-bcc7-82dd1da594bf.png"></a>
             <span> <a href="https://github.com/dragvn/neon-genny-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://github.com/dragvn/neon-genny-api" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>     
              <p align="center">
               NERV Personel Search program that retrieves data from custom built mongo database and displays it to user.  
