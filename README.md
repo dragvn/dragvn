@@ -41,7 +41,7 @@
               NERV Personel Search program that retrieves data from custom built mongo database and displays it to user.  
             </p>
             <p align="center">
-              <strong>Technology used: HTML5, CSS3, JS, Node.js, Expess, MongoDB </strong>
+              <strong>Technology used: HTML5, CSS3, JS, Node.js, Express, MongoDB </strong>
             </p>
         </td>
         <td width="50%">
